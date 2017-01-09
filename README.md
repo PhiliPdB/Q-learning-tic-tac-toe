@@ -2,4 +2,4 @@
 A machine learning tic tac toe
 
 ## How to use
-run `main.py` in your terminal.
+Run `main.py` in your terminal.
