@@ -1,4 +1,4 @@
-# Q learning tic-tac-toe
+# Q-learning tic-tac-toe
 A machine learning tic tac toe
 
 ## How to use
